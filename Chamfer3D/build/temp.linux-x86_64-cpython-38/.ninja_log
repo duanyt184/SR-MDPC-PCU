@@ -1,0 +1,5 @@
+# ninja log v5
+1931	89741	1704872038761489602	/perception/weidong.shi1/extrawork/PSCU/Chamfer3D/build/temp.linux-x86_64-cpython-38/chamfer_cuda.o	69874aaff057bc1c
+1147	182682	1704872132234262558	/perception/weidong.shi1/extrawork/PSCU/Chamfer3D/build/temp.linux-x86_64-cpython-38/chamfer3D.o	6514086d289b952d
+4	29670	1711092722591725328	/perception-hl/weidong.shi1/PSCU/PSCU_FE_MV_C/Chamfer3D/build/temp.linux-x86_64-cpython-38/chamfer_cuda.o	d944abfe5d14bbb1
+4	106462	1711092799368521621	/perception-hl/weidong.shi1/PSCU/PSCU_FE_MV_C/Chamfer3D/build/temp.linux-x86_64-cpython-38/chamfer3D.o	d1275b47a5148f38

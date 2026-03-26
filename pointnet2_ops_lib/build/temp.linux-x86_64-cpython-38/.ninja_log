@@ -1,0 +1,10 @@
+# ninja log v5
+12	50979	1711092527280749019	/perception-hl/weidong.shi1/PSCU/PSCU_FE_MV_C/pointnet2_ops_lib/build/temp.linux-x86_64-cpython-38/pointnet2_ops/_ext-src/src/sampling.o	4170477e9bd8bdd2
+11	51208	1711092527461632810	/perception-hl/weidong.shi1/PSCU/PSCU_FE_MV_C/pointnet2_ops_lib/build/temp.linux-x86_64-cpython-38/pointnet2_ops/_ext-src/src/ball_query.o	d53d1d7d9456174a
+13	51342	1711092527628902540	/perception-hl/weidong.shi1/PSCU/PSCU_FE_MV_C/pointnet2_ops_lib/build/temp.linux-x86_64-cpython-38/pointnet2_ops/_ext-src/src/interpolate.o	a04700f6ac36f3f7
+13	51955	1711092528243157812	/perception-hl/weidong.shi1/PSCU/PSCU_FE_MV_C/pointnet2_ops_lib/build/temp.linux-x86_64-cpython-38/pointnet2_ops/_ext-src/src/group_points.o	8fd0b52e51906019
+12	53888	1711092530179815402	/perception-hl/weidong.shi1/PSCU/PSCU_FE_MV_C/pointnet2_ops_lib/build/temp.linux-x86_64-cpython-38/pointnet2_ops/_ext-src/src/bindings.o	cec2092b00c8dde0
+14	165354	1711092641665675468	/perception-hl/weidong.shi1/PSCU/PSCU_FE_MV_C/pointnet2_ops_lib/build/temp.linux-x86_64-cpython-38/pointnet2_ops/_ext-src/src/sampling_gpu.o	8e6ce09affe2f19f
+13	165485	1711092641792588733	/perception-hl/weidong.shi1/PSCU/PSCU_FE_MV_C/pointnet2_ops_lib/build/temp.linux-x86_64-cpython-38/pointnet2_ops/_ext-src/src/group_points_gpu.o	4719e763c491ffa2
+12	166361	1711092642648779541	/perception-hl/weidong.shi1/PSCU/PSCU_FE_MV_C/pointnet2_ops_lib/build/temp.linux-x86_64-cpython-38/pointnet2_ops/_ext-src/src/ball_query_gpu.o	693d57069d7a4bea
+13	168609	1711092644926624334	/perception-hl/weidong.shi1/PSCU/PSCU_FE_MV_C/pointnet2_ops_lib/build/temp.linux-x86_64-cpython-38/pointnet2_ops/_ext-src/src/interpolate_gpu.o	817ac61b5aad2fd

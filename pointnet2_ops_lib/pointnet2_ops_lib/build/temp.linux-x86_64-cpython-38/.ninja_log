@@ -1,0 +1,15 @@
+# ninja log v5
+3	28989	1699328572827867277	/home/weidong.shi1/extrawork/PSCU/pointnet2_ops_lib/build/temp.linux-x86_64-cpython-38/pointnet2_ops/_ext-src/src/interpolate.o	9e89d15f622b7301
+2	30565	1699328574046729549	/home/weidong.shi1/extrawork/PSCU/pointnet2_ops_lib/build/temp.linux-x86_64-cpython-38/pointnet2_ops/_ext-src/src/ball_query.o	aabe0e8689d0cc2
+2	31146	1699328574971807578	/home/weidong.shi1/extrawork/PSCU/pointnet2_ops_lib/build/temp.linux-x86_64-cpython-38/pointnet2_ops/_ext-src/src/bindings.o	ab4593b41e10c475
+3	31340	1699328575179677668	/home/weidong.shi1/extrawork/PSCU/pointnet2_ops_lib/build/temp.linux-x86_64-cpython-38/pointnet2_ops/_ext-src/src/group_points.o	982c431146cb4eb9
+4	32737	1699328576577470855	/home/weidong.shi1/extrawork/PSCU/pointnet2_ops_lib/build/temp.linux-x86_64-cpython-38/pointnet2_ops/_ext-src/src/sampling.o	68b36a18e52bfaf8
+2	110056	1699328653897770533	/home/weidong.shi1/extrawork/PSCU/pointnet2_ops_lib/build/temp.linux-x86_64-cpython-38/pointnet2_ops/_ext-src/src/ball_query_gpu.o	d1a593e461a6130f
+3	110245	1699328654087022761	/home/weidong.shi1/extrawork/PSCU/pointnet2_ops_lib/build/temp.linux-x86_64-cpython-38/pointnet2_ops/_ext-src/src/interpolate_gpu.o	abc310522f784859
+4	110608	1699328654450610070	/home/weidong.shi1/extrawork/PSCU/pointnet2_ops_lib/build/temp.linux-x86_64-cpython-38/pointnet2_ops/_ext-src/src/sampling_gpu.o	793cacb1a6e9240c
+3	111127	1699328654969565704	/home/weidong.shi1/extrawork/PSCU/pointnet2_ops_lib/build/temp.linux-x86_64-cpython-38/pointnet2_ops/_ext-src/src/group_points_gpu.o	19093aee1c8f17c
+1576	26481	1704871759367903272	/home/weidong.shi1/extrawork/PSCU/pointnet2_ops_lib/build/temp.linux-x86_64-cpython-38/pointnet2_ops/_ext-src/src/ball_query.o	aabe0e8689d0cc2
+1577	26506	1704871759373101263	/home/weidong.shi1/extrawork/PSCU/pointnet2_ops_lib/build/temp.linux-x86_64-cpython-38/pointnet2_ops/_ext-src/src/interpolate.o	9e89d15f622b7301
+1577	26542	1704871759436102249	/home/weidong.shi1/extrawork/PSCU/pointnet2_ops_lib/build/temp.linux-x86_64-cpython-38/pointnet2_ops/_ext-src/src/sampling.o	68b36a18e52bfaf8
+1576	26992	1704871759885154612	/home/weidong.shi1/extrawork/PSCU/pointnet2_ops_lib/build/temp.linux-x86_64-cpython-38/pointnet2_ops/_ext-src/src/bindings.o	ab4593b41e10c475
+1577	27137	1704871760032651096	/home/weidong.shi1/extrawork/PSCU/pointnet2_ops_lib/build/temp.linux-x86_64-cpython-38/pointnet2_ops/_ext-src/src/group_points.o	982c431146cb4eb9
